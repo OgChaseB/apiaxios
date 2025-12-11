@@ -1,0 +1,7 @@
+.Rick{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1196px;
+    gap: 20px;
+}
